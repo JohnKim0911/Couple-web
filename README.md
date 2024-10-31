@@ -164,6 +164,17 @@
 
 ![memberHome](https://github.com/user-attachments/assets/4a5d9caf-3682-4be0-aeb6-e479db097fc9)
 
+## 🔑 ERD 설계
+![erd_mypart](https://github.com/user-attachments/assets/37dfe827-fe33-496b-9274-4d2a53bcd8eb)
+
+## 🔎 개발 환경
+- **Back-End** : Java 11, JSP & Servlet, Spring, Mybatis
+- **DBMS** : Oracle
+- **WAS** : Apache Tomcat 9.0
+- **Front-End** : HTML5, CSS3, JavaScript, JQuery, Ajax
+- **Tool** : STS, Eclipse, SQL Developer, Visual Studio
+- **Collaboration** : Git, SourceTree
+- **OS** : Windows 10
 
 ## 🕓 개발 기간: 2024.09.11 ~ 2024.10.25
 - 2024.09.11 ~ 2024.09.18 : 프로젝트 주제 선정
@@ -172,19 +183,7 @@
 - 2024.10.04 ~ 2024.10.24 : 화면 구현, 기능개발, 프로젝트 검수 및 테스트
 - 2024.10.25 : 프로젝트 발표
 
-## 🔎 개발 환경
-- **Back-End** : Java 11, JSP & Servlet, Spring, Mybatis
-- **WAS** : Apache Tomcat 9.0
-- **DBMS** : Oracle
-- **Front-End** : HTML5, CSS3, JavaScript, JQuery, Ajax
-- **Tool** : STS, Eclipse, SQL Developer, Visual Studio
-- **Collaboration** : Git, SourceTree
-- **OS** : Windows 10
-
-## 🔑 ERD 설계
-![ERD](https://github.com/user-attachments/assets/dcfa2079-3f9d-41a2-862e-9611bdfce516)
-
-## ✅ 비고
-총 4명이 진행한 프로젝트 입니다.<br>
-전체 프로젝트에 대한 정보가 필요하시면 아래 링크를 참고하여 주시기 바랍니다.
-https://github.com/cbher4444/FinalProject
+## ℹ️ 참고
+- 총 4명이 진행한 프로젝트 입니다.<br>
+- 프로젝트 전체에 대한 설명은 아래 링크를 참고해주세요.
+    https://github.com/cbher4444/FinalProject
