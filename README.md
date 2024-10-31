@@ -167,6 +167,9 @@
 ## 🔑 ERD 설계
 ![erd_mypart](https://github.com/user-attachments/assets/37dfe827-fe33-496b-9274-4d2a53bcd8eb)
 
+> - 빨간색으로 마킹된 부분을 담당하였습니다.
+> - 외부 library 및 api 사용에 초점을 맞춰서 상대적으로 적은 DB테이블을 사용하였습니다.
+
 ## 🔎 개발 환경
 - **Back-End** : Java 11, JSP & Servlet, Spring, Mybatis
 - **DBMS** : Oracle
@@ -185,5 +188,5 @@
 
 ## ℹ️ 참고
 - 총 4명이 진행한 프로젝트 입니다.<br>
-- 프로젝트 전체에 대한 설명은 아래 링크를 참고해주세요.
-    https://github.com/cbher4444/FinalProject
+- 프로젝트 전체에 대한 설명은 다음 링크를 참고해주세요.
+    - https://github.com/cbher4444/FinalProject
