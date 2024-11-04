@@ -33,6 +33,28 @@
         - 커플 정보 조회/변경
         - 로그인 전/후 홈페이지 화면구현
 
+## 🔑 ERD 설계
+![erd_mypart](https://github.com/user-attachments/assets/37dfe827-fe33-496b-9274-4d2a53bcd8eb)
+
+> - 빨간색으로 마킹된 부분을 담당하였습니다.
+> - 외부 library 및 api 사용에 초점을 맞춰서 상대적으로 적은 DB테이블을 사용하였습니다.
+
+## 🔎 개발 환경
+- **Back-End** : Java 11, JSP & Servlet, Spring, Mybatis
+- **DBMS** : Oracle
+- **WAS** : Apache Tomcat 9.0
+- **Front-End** : HTML5, CSS3, JavaScript, JQuery, Ajax
+- **Tool** : STS, Eclipse, SQL Developer, Visual Studio
+- **Collaboration** : Git, SourceTree
+- **OS** : Windows 10
+
+## 🕓 개발 기간: 2024.09.11 ~ 2024.10.25
+- 2024.09.11 ~ 2024.09.18 : 프로젝트 주제 선정
+- 2024.09.19 ~ 2024.09.22 : 요구사항 분석 및 구현할 목표 설정
+- 2024.09.23 ~ 2024.10.03 : 화면 설계 및 데이터 설계
+- 2024.10.04 ~ 2024.10.24 : 화면 구현, 기능개발, 프로젝트 검수 및 테스트
+- 2024.10.25 : 프로젝트 발표
+
 ## 👊프로젝트 구현
 
 ### ❤ 김동규
@@ -164,27 +186,7 @@
 
 ![memberHome](https://github.com/user-attachments/assets/4a5d9caf-3682-4be0-aeb6-e479db097fc9)
 
-## 🔑 ERD 설계
-![erd_mypart](https://github.com/user-attachments/assets/37dfe827-fe33-496b-9274-4d2a53bcd8eb)
 
-> - 빨간색으로 마킹된 부분을 담당하였습니다.
-> - 외부 library 및 api 사용에 초점을 맞춰서 상대적으로 적은 DB테이블을 사용하였습니다.
-
-## 🔎 개발 환경
-- **Back-End** : Java 11, JSP & Servlet, Spring, Mybatis
-- **DBMS** : Oracle
-- **WAS** : Apache Tomcat 9.0
-- **Front-End** : HTML5, CSS3, JavaScript, JQuery, Ajax
-- **Tool** : STS, Eclipse, SQL Developer, Visual Studio
-- **Collaboration** : Git, SourceTree
-- **OS** : Windows 10
-
-## 🕓 개발 기간: 2024.09.11 ~ 2024.10.25
-- 2024.09.11 ~ 2024.09.18 : 프로젝트 주제 선정
-- 2024.09.19 ~ 2024.09.22 : 요구사항 분석 및 구현할 목표 설정
-- 2024.09.23 ~ 2024.10.03 : 화면 설계 및 데이터 설계
-- 2024.10.04 ~ 2024.10.24 : 화면 구현, 기능개발, 프로젝트 검수 및 테스트
-- 2024.10.25 : 프로젝트 발표
 
 ## ℹ️ 참고
 - 총 4명이 진행한 프로젝트 입니다.<br>
